@@ -4,11 +4,11 @@ The scope of this project is to understand how much AirBNB homes are earning in 
 
 We want to investigate how we could invest capital into a flat to rent for turists. To do so, we want to try to answer the following points:
 
-    * Which areas of Florence are more popular, bringing highest occupancy. Also, which listings are more consolidated per area, and which are the areas where new listings are appearing
+  * Which areas of Florence are more popular, bringing highest occupancy. Also, which listings are more consolidated per area, and which are the areas where new listings are appearing
 
-    * Investigate the caracteristics of flats in relation to returns (how many guests can accept, utilities etc.) for the consolidated activities
-    
-    * How earnings are distributed along the year, causing fluctuation of returns
+  * Investigate the caracteristics of flats in relation to returns (how many guests can accept, utilities etc.) for the consolidated activities
+
+  * How earnings are distributed along the year, causing fluctuation of returns
 
 # Summary
 
