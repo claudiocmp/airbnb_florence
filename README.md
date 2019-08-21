@@ -14,18 +14,12 @@ We want to investigate how we could invest capital into a flat to rent for turis
 
 The process is executed in a Jupyter Notebook, where you can find:
 
-    Data preparation:
-        Gather necessary data to answer your questions
-        Handle categorical and missing data
-        Provide insight into the methods you chose and why you chose them
-
-    Data Analysis
-    
-    Data Modelling
-    
-    Data Vizualization
+* Data preparation. Data is taken from [http://insideairbnb.com/get-the-data.html](here, file: listings.csv.gz. Date 22 June 2019). Missing values and feature selection is processed to simplify the dataset and run an exploratory experiment.
+* Data analysis. Prices and 
+* Data modelling
+* Data visualization
     
 # Installation
 
-The Notebook requires Python 3.7 installed on your machine to run. Dependencies are include in the Anaconda environment file requirements.yml
+The Notebook requires Python 3.7 installed on your machine to run. Dependencies are include in the Anaconda environment file `requirements.yml`
 
