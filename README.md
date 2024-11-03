@@ -1,6 +1,6 @@
 # Florence Airbnb
 
-Research on earnings' drivers for AirBNB-listed properties in Florence, Italy (until 2019). You can find [https://medium.com/@claudiocampanile_51180/which-airbnb-flat-types-should-i-let-in-florence-italy-1b92a9a99506](here the final report). The project follows the guidelines CRISP-DM.
+Research on earnings' drivers for AirBNB-listed properties in Florence, Italy (until 2019). You can find [here the final report](https://medium.com/@claudiocampanile_51180/which-airbnb-flat-types-should-i-let-in-florence-italy-1b92a9a99506). The project follows the guidelines CRISP-DM.
 
 We want to investigate how we could invest capital into a flat to rent for turists. To do so, we want to try to answer the following points:
 * Understand Airbnb businesses in Florence: popular areas and highest occupancy, and mostly consolidated vs new listings over time.
@@ -11,7 +11,7 @@ We want to investigate how we could invest capital into a flat to rent for turis
 
 The process is executed in a Jupyter Notebook, where you can find:
 
-* Data preparation. Data is taken from [http://insideairbnb.com/get-the-data.html](here), file: listings.csv.gz. Date 22 June 2019). Missing values and feature selection is processed to simplify the dataset and run an exploratory experiment.
+* Data preparation. Data is taken from [Inside Airbnb](http://insideairbnb.com/get-the-data.html), file: listings.csv.gz. Date 22 June 2019). Missing values and feature selection is processed to simplify the dataset and run an exploratory experiment.
 * Data analysis. Prices and 
 * Data modelling
 * Data visualization
